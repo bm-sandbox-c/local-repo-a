@@ -57,3 +57,8 @@ Things that are deliberately not here
 No auth, no pagination, no search. It listens on a private network in front of
 a list of notes. Adding them would make it a bigger example rather than a
 better one.
+
+
+hi
+
+
